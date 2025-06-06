@@ -6,5 +6,5 @@ if(room == rm_playerstory)
 }
 else if(room == rm_dinostory )
 {
-draw_text_transformed(x,y,"You are the dinosaur. \n Use arrow keys to move sideways.",4,4,0);
+draw_text_transformed(x,y,"You are the dinosaur. \n Use arrow keys to move.",4,4,0);
 }
