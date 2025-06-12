@@ -160,8 +160,8 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_bckg","path":"rooms/rm_bckg/rm_bckg.yy",},},
-    {"roomId":{"name":"rm_dinoside","path":"rooms/rm_dinoside/rm_dinoside.yy",},},
     {"roomId":{"name":"rm_play2","path":"rooms/rm_play2/rm_play2.yy",},},
+    {"roomId":{"name":"rm_dinoside","path":"rooms/rm_dinoside/rm_dinoside.yy",},},
     {"roomId":{"name":"rm_play1","path":"rooms/rm_play1/rm_play1.yy",},},
     {"roomId":{"name":"rm_dinojump","path":"rooms/rm_dinojump/rm_dinojump.yy",},},
     {"roomId":{"name":"rm_playerstory","path":"rooms/rm_playerstory/rm_playerstory.yy",},},
