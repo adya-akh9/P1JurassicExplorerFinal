@@ -4,3 +4,4 @@ if(has_dynamite)
 {
 	instance_create_layer(x,y, "Instances", obj_dynamite);
 }
+audio_play_sound(snd_roar,1,2);
