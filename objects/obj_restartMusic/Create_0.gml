@@ -8,6 +8,6 @@
 //}
 //if(room == rm_playerstory)
 //{
-	audio_play_sound(snd_restartGame,1,2);
+	//audio_play_sound(snd_restartGame,1,2);
 //}
  

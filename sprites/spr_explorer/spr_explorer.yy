@@ -1,9 +1,9 @@
 {
   "$GMSprite":"",
   "%Name":"spr_explorer",
-  "bboxMode":2,
+  "bboxMode":0,
   "bbox_bottom":63,
-  "bbox_left":13,
+  "bbox_left":11,
   "bbox_right":52,
   "bbox_top":11,
   "collisionKind":1,
